@@ -1,3 +1,69 @@
-
-
-
+html{
+    background-color: white;
+    padding-top: 1.3rem;
+    padding-bottom: 1.1rem;
+}
+body{
+    font-family: 'Arial', sans-serif;
+    background-color: #ededed;
+}
+.header{
+    text-align: center;
+    padding: 3rem 26rem 0rem 26rem;
+}
+.main-title{
+    font-size: 2.5rem;
+    text-align: center;
+    line-height: 2rem;
+}
+.bio-figure{
+    text-align: center;
+    padding: 1rem 25rem 1rem 25rem;
+    margin-left: 0.7rem;
+    margin-right: 0.7rem;
+    background-color: white;
+}
+.bio-image{
+    max-width: 95%;
+    padding-bottom: 1rem;
+}
+.content{
+    text-align: center;
+}
+.timeline-title{
+    text-align: center;
+    font-size: 1.2rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+.timeline{
+    list-style-type: disc;
+    max-width: 29%;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+.timeline li {
+    text-align: justify;
+    line-height: 1.5rem;
+    margin-bottom: 1.5rem;
+    
+}
+.quote{
+    font-style: italic;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: justify;
+    padding: 2rem 1rem;
+}
+.quote-author{
+    font-style: italic;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: justify;
+    padding: 0rem 1rem 3rem 1rem;
+}
+.link{
+    text-align: center;
+    padding-bottom: 3rem;
+    font-size: 1.2rem;
+}
